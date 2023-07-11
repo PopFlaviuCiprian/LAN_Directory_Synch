@@ -4,5 +4,4 @@
 - The folder from left (in the video) is the main folder where you can copy, create, or delete files and the folder from the right (in the video) is located to another PC from a LAN synchronize to every 10 seconds in our case and save every event in a log file.
 - The script can be edited changing the time in minutes or hours and can be also edited to add multiple folders from a LAN.
 
-
-
+- https://github.com/PopFlaviuCiprian/LAN_Directory_Synch/assets/117381350/d41e2095-05c3-4e3d-9688-21c20e86e178
